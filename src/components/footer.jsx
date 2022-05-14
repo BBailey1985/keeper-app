@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer>
       <p>
-       Copyright &copy {year}
+       Copyright &copy; {year}
       </p>
     </footer>
   )
